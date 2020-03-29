@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company version="2.0">
+    <department>
+        <group>
+            <unit><unit1></unit1></unit>
+        </group>
+        <department>
+            <group>
+                <unit2><unit3></unit3></unit2>
+            </group>
+        </department>
+    </department>
+</company>
